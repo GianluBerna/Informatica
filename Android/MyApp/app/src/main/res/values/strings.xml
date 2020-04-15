@@ -1,0 +1,35 @@
+<resources>
+    <!-- MAIN ACTIVITY -->
+    <string name="app_name">My App</string>
+    <string name="titolo">La mia prima app</string>
+    <string name="saluta">Saluta</string>
+    <string name="alto_basso">Alto&amp;Basso</string>
+    <string name="accelerometro">Accelerometro</string>
+    <string name="fotocamera">Fotocamera</string>
+    <string name="tris">Gioco Del Tris</string>
+
+    <!-- ALTOBASSO ACTIVITY -->
+    <string name="title_activity_altobasso">Alto&amp;Basso</string>
+    <string name="dummy_button">Esci</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="inserisci_numero">Inserisci un numero</string>
+    <string name="esito_numero">Esito</string>
+
+    <!-- ACC ACTIVITY -->
+    <string name="titolo_acc">ACCELEROMETRO</string>
+    <string name="sens_x">X</string>
+    <string name="sens_y">Y</string>
+    <string name="sens_z">Z</string>
+    <string name="title_activity_tris">TrisActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="btn_tris">-</string>
+    <string name="Reset">Reset Gioco</string>
+</resources>
